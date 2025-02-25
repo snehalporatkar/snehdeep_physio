@@ -504,7 +504,7 @@ h1, h2, h3, h4, h5,
 }
 
 .site-navbar .site-navigation .site-menu > li > a:hover > span {
-  color: #e75480;
+  color: red;
   border-radius: 30px;
   display: inline-block;
 }
